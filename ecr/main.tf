@@ -3,8 +3,8 @@ terraform {
     bucket = "mysultanbucket"
     key    = "ecr-terraform.tfstate"
     region = "us-east-1"
-    access_key = "AKIAYNXNOQ5NQ4X7GECR"
-    secret_key = "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"
+    access_key = ""
+    secret_key = ""
   }
   required_providers {
     aws = {
